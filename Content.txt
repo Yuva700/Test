@@ -1,0 +1,10 @@
+yuvagit
+test
+ts02
+google analytics
+
+propety
+mesure id / usernname
+Website url: yuva700.github.io/Test/
+Data collection: WEB
+Stream name: Test SN
